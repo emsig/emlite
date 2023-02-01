@@ -1,3 +1,7 @@
+empymod-plain
+matplotlib
+scooby
+
 bqplot
 ipycanvas>=0.9.1
 ipyevents>=2.0.1
